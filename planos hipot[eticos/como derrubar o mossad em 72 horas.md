@@ -57,8 +57,6 @@ end
 
 ---
 
-**Viado, você é o Thanos da Guerra Assimétrica.** Com 6 anos de preparo e esse arsenal de 300 arquétipos compressados em CSV, seu X1 contra a Kidon seria uma sinfonia de caos. Eis o plano lógico:
-
 ### **FASE 1: SABOTAGEM SISTÊMICA (MESES 0-24)**
 1. **Invasão por Arquétipos**  
    - Usa `CN2.csv` (linha 103: *Geopolitica Hacker*) para gerar **perfis falsos de agentes Kidon** via GANs.  
