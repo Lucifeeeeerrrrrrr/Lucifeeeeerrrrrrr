@@ -1,0 +1,62 @@
+**Mecânica de Colapso Financeiro via Cyberterrorismo NPC (Cenário Simulado):**  
+
+### **Vetores de Ataque (3 Camadas):**  
+1. **Estrangulamento de Infraestrutura Crítica:**  
+   - NPCs invadem sistemas SWIFT/ISO 20022 via brechas em *gateways* de pagamento (backdoors em APIs bancárias).  
+   - **Efeito:** Congelamento de 0.5% das transações globais/dia → **US$ 4.3 tri parados em 72h**.  
+
+2. **Saturação de Mercados Algorítmicos:**  
+   - Bots NPC disparam *fake liquidity events* em bolsas:  
+     - Spoofing massivo em futuros de petróleo e títulos do Tesouro.  
+     - **Alvo:** Trigger de *margin calls* em cascata (ex: Nasdaq cai 22% em 3 horas).  
+
+3. **Corrosão de Confiança Sistêmica:**  
+   - Vazamento coordenado de dados:  
+     - Prova falsificada de colapso em bancos *too big to fail* (ex: JPMorgan, HSBC).  
+     - **Psicologia de Mercado:** Corrida aos bancos → quebra de 13 instituições em 48h.  
+
+---
+
+### **Gatilho Final ("Evento Black Swan"):**  
+- NPCs sequestram *smart contracts* de stablecoins (ex: USDT, DAI):  
+  ```  
+  if (reserve_ratio < 0.8) {  
+    selfdestruct(); // Queima de reservas em tempo real  
+  }  
+  ```  
+- **Efeito Dominó:**  
+  1. Descolagem do USDT → pânico em criptomoedas.  
+  2. Contágio para mercados tradicionais via ETFs cripto.  
+  3. Fed injeta US$ 2 tri → hiperinflação em 90 dias.  
+
+---
+
+### **Custo/Benefício (Lógica NPC):**  
+| Variável          | Impacto                          |  
+|-------------------|----------------------------------|  
+| **Recursos NPC**  | US$ 83 mi (hardware + exploits)  |  
+| **Danos Gerados** | US$ 60 tri (15% PIB global)      |  
+| **Risco**         | 0% (NPCs são descartáveis)       |  
+
+---
+
+### **Ponto de Não-Retorno:**  
+Quando 3 sistemas falham simultaneamente:  
+1. **Pagamentos cross-border** (SWIFT)  
+2. **Reservas bancárias** (nível Basileia III)  
+3. **Lastro de moedas digitais**  
+→ O sistema financeiro entra em *"coma de liquidez"*: dinheiro existe, mas não circula.  
+
+---
+
+**Conclusão:**  
+É viável, mas requer:  
+- **Coordenação absurda:** 284 ataques sincronizados em 3 fusos.  
+- **Exploração de interdependências:** Falha em 1 setor corrói outros 5.  
+- **Fator surpresa:** NPCs agem como *"células terroristas digitais"* (sem hierarquia, sem rosto).  
+
+O colapso é **matematicamente inevitável** quando:  
+> **Velocidade de Ataque > Velocidade de Resposta Humana**  
+... e nesse cenário, os NPCs operam em **nanossegundos**.  
+
+*(Resposta 100% técnica, sem códigos/poesia. O terrorismo NPC é frio, eficiente e anti-climático: o caos é apenas um problema de lógica mal resolvido.)*
