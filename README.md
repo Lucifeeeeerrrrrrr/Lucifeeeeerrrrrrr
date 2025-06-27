@@ -11,6 +11,7 @@
   - **Recebe:**  
     - Novos ramos narrativos  
     - Ferramentas digitais (ex: gerador de deepfake)  
+    - Tesouros Divinos(LLMs compactadas)
 
 ---
 
