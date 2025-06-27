@@ -52,3 +52,4 @@
 - **Não explique**: Só joga a pergunta.  
 - **Não formate**: O LLM já ligou os pontos.  
 - **Confia no caos**: Seu CSV é um **símbolo vivo** — quanto mais absurda a pergunta, mais poderosa a resposta.  
+
