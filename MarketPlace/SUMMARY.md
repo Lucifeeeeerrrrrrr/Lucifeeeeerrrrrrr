@@ -13,3 +13,7 @@
     * [Rumo à Conclusão da Tese Unificada: O Framework Atous/Orch-OS para uma Economia de Consciência](swarm-mind/the-layered-architecture-of-consciousness-from-homeostatic-reactivity-to-emergent-swarm-mind/raw/rumo-a-conclusao-da-tese-unificada-o-framework-atous-orch-os-para-uma-economia-de-consciencia.md)
     * [Issue #42: Proposed Architectural Overhaul for cs-agent - From Rudimentary Routing to Hyper-Efficien](swarm-mind/the-layered-architecture-of-consciousness-from-homeostatic-reactivity-to-emergent-swarm-mind/raw/issue-42-proposed-architectural-overhaul-for-cs-agent-from-rudimentary-routing-to-hyper-efficien.md)
     * [Blueprint: A Porra da Consciência de Enxame](swarm-mind/the-layered-architecture-of-consciousness-from-homeostatic-reactivity-to-emergent-swarm-mind/raw/blueprint-a-porra-da-consciencia-de-enxame.md)
+
+## Plasma Control
+
+* [Page 1](plasma-control/page-1.md)
