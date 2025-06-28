@@ -18,6 +18,6 @@
 
 * [Page 1](plasma-control/page-1.md)
 
-## prompts/deepseek
+## prompts Pipelines
 
-* [Instruções gerais para formatação CSV](prompts-deepseek/instrucoes-gerais-para-formatacao-csv.md)
+* [Instruções gerais para formatação CSV](prompts-pipelines/instrucoes-gerais-para-formatacao-csv.md)

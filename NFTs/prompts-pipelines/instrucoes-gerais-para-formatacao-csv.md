@@ -1,6 +1,8 @@
 # Instruções gerais para formatação CSV
 
-1. Colete o DataSet a partir dos pensamentos dos chats, pois sao instruções diretas sem quantização.
+
+
+1. Colete o Raw Data a partir dos pensamentos dos chats, pois sao instruções diretas sem quantização.
 2. Solicite a uma IA com pensamento profundo para formatar
 
 ```
@@ -46,3 +48,21 @@
 
 
 ```
+
+3.  Arraste o raw data para o LLM
+
+    > Seu objetivo não é coletar o CSV, mas e sim as instruções do pensamento profundo
+4. Agora cole numa IA esse prompt e o Raw Data.
+
+```
+<regras>
+Faca ate a 100 linhas, sem mais nada, apenas o csv. comece do cabecalho, e dps do 0 e va ate o 100
+</regras>
+
+<raw>
+[...pensamentos]
+</raw>
+
+```
+
+> Quanto mais fragmentados estiverem os arquivos, melhor a compreensão semantica. Evite deixar mais de 2 mil linhas(testado empiricamente no Gemini 2.5 Flash)
