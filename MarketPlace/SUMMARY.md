@@ -17,3 +17,7 @@
 ## Plasma Control
 
 * [Page 1](plasma-control/page-1.md)
+
+## prompts/deepseek
+
+* [Instruções gerais para formatação CSV](prompts-deepseek/instrucoes-gerais-para-formatacao-csv.md)
