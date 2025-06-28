@@ -17,6 +17,7 @@
 ## Plasma Control
 
 * [Page 1](plasma-control/page-1.md)
+* [raw](plasma-control/raw.md)
 
 ## prompts Pipelines
 
