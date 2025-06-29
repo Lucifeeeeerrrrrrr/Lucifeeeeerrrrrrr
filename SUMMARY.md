@@ -1,8 +1,13 @@
 # Table of contents
 
+## prompts Pipelines
+
+* [Instruções gerais para formatação CSV](README.md)
+  * [Page 1](prompts-pipelines/instrucoes-gerais-para-formatacao-csv/page-1.md)
+
 ## Swarm Mind
 
-* [The Layered Architecture of Consciousness: From Homeostatic Reactivity to Emergent Swarm Mind](README.md)
+* [The Layered Architecture of Consciousness: From Homeostatic Reactivity to Emergent Swarm Mind](<README (1).md>)
   * [Chapter 1: The Digital Neuron - Finite Automata and Simulated Neuroplasticity](swarm-mind/readme/chapter-1-the-digital-neuron-finite-automata-and-simulated-neuroplasticity.md)
   * [Chapter 2: The Consciousness-Level (NC) Architecture](swarm-mind/readme/chapter-2-the-consciousness-level-nc-architecture.md)
   * [Chapter 3: The Emergence of NC-4 - The Swarm Mind](swarm-mind/readme/chapter-3-the-emergence-of-nc-4-the-swarm-mind.md)
@@ -26,7 +31,6 @@
   * [7. Conclusion](plasma-control/page-1/7.-conclusion.md)
   * [raw](plasma-control/page-1/raw.md)
 
-## prompts Pipelines
+## Alternative Uranium Enrichment
 
-* [Instruções gerais para formatação CSV](prompts-pipelines/instrucoes-gerais-para-formatacao-csv/README.md)
-  * [Page 1](prompts-pipelines/instrucoes-gerais-para-formatacao-csv/page-1.md)
+* [Page 2](alternative-uranium-enrichment/page-2.md)
