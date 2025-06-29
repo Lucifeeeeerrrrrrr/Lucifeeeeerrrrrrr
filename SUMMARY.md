@@ -37,4 +37,5 @@
   * [1. Introduction](alternative-uranium-enrichment/page-2/1.-introduction.md)
   * [2. The Unified Technological Framework](alternative-uranium-enrichment/page-2/2.-the-unified-technological-framework.md)
   * [3. HPC Simulation Architecture](alternative-uranium-enrichment/page-2/3.-hpc-simulation-architecture.md)
-  * [Page 2](alternative-uranium-enrichment/page-2/page-2.md)
+  * [4. Ethical Framework: The A.S.I.M.O.V. Protocol](alternative-uranium-enrichment/page-2/4.-ethical-framework-the-a.s.i.m.o.v.-protocol.md)
+  * [5. Conclusion](alternative-uranium-enrichment/page-2/5.-conclusion.md)
