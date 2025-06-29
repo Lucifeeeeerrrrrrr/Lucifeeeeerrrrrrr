@@ -16,9 +16,17 @@
 
 ## Plasma Control
 
-* [Page 1](plasma-control/page-1.md)
-* [raw](plasma-control/raw.md)
+* [A Unified Theory of Neuro-Plasmatic Optimization](plasma-control/page-1/README.md)
+  * [1. Introduction](plasma-control/page-1/1.-introduction.md)
+  * [2. Fundamental Premises](plasma-control/page-1/2.-fundamental-premises.md)
+  * [3. The HPC Protocol for Extreme Optimization](plasma-control/page-1/3.-the-hpc-protocol-for-extreme-optimization.md)
+  * [4. Symbolic Lexicon](plasma-control/page-1/4.-symbolic-lexicon.md)
+  * [5. Laws of Neuro-Plasmatic Optimization](plasma-control/page-1/5.-laws-of-neuro-plasmatic-optimization.md)
+  * [6. Risks and Mitigations](plasma-control/page-1/6.-risks-and-mitigations.md)
+  * [7. Conclusion](plasma-control/page-1/7.-conclusion.md)
+  * [raw](plasma-control/page-1/raw.md)
 
 ## prompts Pipelines
 
-* [Instruções gerais para formatação CSV](prompts-pipelines/instrucoes-gerais-para-formatacao-csv.md)
+* [Instruções gerais para formatação CSV](prompts-pipelines/instrucoes-gerais-para-formatacao-csv/README.md)
+  * [Page 1](prompts-pipelines/instrucoes-gerais-para-formatacao-csv/page-1.md)
