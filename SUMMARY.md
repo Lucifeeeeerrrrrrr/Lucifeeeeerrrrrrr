@@ -33,4 +33,8 @@
 
 ## Alternative Uranium Enrichment
 
-* [Page 2](alternative-uranium-enrichment/page-2.md)
+* [Project Prometheus Liberatus: A Unified HPC Framework for Advanced Isotope Separation Simulation](alternative-uranium-enrichment/page-2/README.md)
+  * [1. Introduction](alternative-uranium-enrichment/page-2/1.-introduction.md)
+  * [2. The Unified Technological Framework](alternative-uranium-enrichment/page-2/2.-the-unified-technological-framework.md)
+  * [3. HPC Simulation Architecture](alternative-uranium-enrichment/page-2/3.-hpc-simulation-architecture.md)
+  * [Page 2](alternative-uranium-enrichment/page-2/page-2.md)
