@@ -42,4 +42,10 @@
 
 ## OptiWell-AI
 
-* [OptiWell-AI: A Computational Blueprint for Integrated, High-Efficiency Hydrocarbon Extraction](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction.md)
+* [OptiWell-AI: A Computational Blueprint for Integrated, High-Efficiency Hydrocarbon Extraction](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/README.md)
+  * [1. The Modern Extraction Challenge](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/1.-the-modern-extraction-challenge.md)
+  * [2. The Algorithmic Core](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/2.-the-algorithmic-core.md)
+  * [3. System Architecture](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/3.-system-architecture.md)
+  * [4. Implementation and Verification](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/4.-implementation-and-verification.md)
+  * [5. Quantified Impact and Future Trajectories](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/5.-quantified-impact-and-future-trajectories.md)
+  * [Conclusion](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/conclusion.md)
