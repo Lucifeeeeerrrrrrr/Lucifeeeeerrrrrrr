@@ -39,3 +39,7 @@
   * [3. HPC Simulation Architecture](alternative-uranium-enrichment/page-2/3.-hpc-simulation-architecture.md)
   * [4. Ethical Framework: The A.S.I.M.O.V. Protocol](alternative-uranium-enrichment/page-2/4.-ethical-framework-the-a.s.i.m.o.v.-protocol.md)
   * [5. Conclusion](alternative-uranium-enrichment/page-2/5.-conclusion.md)
+
+## OptiWell-AI
+
+* [OptiWell-AI: A Computational Blueprint for Integrated, High-Efficiency Hydrocarbon Extraction](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction.md)
