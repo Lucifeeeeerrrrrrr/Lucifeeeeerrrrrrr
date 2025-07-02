@@ -49,3 +49,13 @@
   * [4. Implementation and Verification](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/4.-implementation-and-verification.md)
   * [5. Quantified Impact and Future Trajectories](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/5.-quantified-impact-and-future-trajectories.md)
   * [Conclusion](optiwell-ai/optiwell-ai-a-computational-blueprint-for-integrated-high-efficiency-hydrocarbon-extraction/conclusion.md)
+
+## Vectos as memory
+
+* [The Living Memory Model: A Brain-Inspired Architecture for Frugal and Adaptive Language Agents](vectos-as-memory/the-living-memory-model-a-brain-inspired-architecture-for-frugal-and-adaptive-language-agents/README.md)
+  * [1. Introduction: The Cognitive Burden of Contemporary LLMs](vectos-as-memory/the-living-memory-model-a-brain-inspired-architecture-for-frugal-and-adaptive-language-agents/1.-introduction-the-cognitive-burden-of-contemporary-llms.md)
+  * [2. Core Architecture: The Principles of Living Memory](vectos-as-memory/the-living-memory-model-a-brain-inspired-architecture-for-frugal-and-adaptive-language-agents/2.-core-architecture-the-principles-of-living-memory.md)
+  * [3. Dynamic Processes for an Adaptive System](vectos-as-memory/the-living-memory-model-a-brain-inspired-architecture-for-frugal-and-adaptive-language-agents/3.-dynamic-processes-for-an-adaptive-system.md)
+  * [4. Quantum-Inspired Analogies for Intuitive Understanding](vectos-as-memory/the-living-memory-model-a-brain-inspired-architecture-for-frugal-and-adaptive-language-agents/4.-quantum-inspired-analogies-for-intuitive-understanding.md)
+  * [5. Viability and Economic Revolution](vectos-as-memory/the-living-memory-model-a-brain-inspired-architecture-for-frugal-and-adaptive-language-agents/5.-viability-and-economic-revolution.md)
+  * [6. Conclusion](vectos-as-memory/the-living-memory-model-a-brain-inspired-architecture-for-frugal-and-adaptive-language-agents/6.-conclusion.md)
