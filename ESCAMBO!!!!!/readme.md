@@ -19,7 +19,7 @@ O Brasil já **NASCEU ESCAMBISTA** — só falta a **plataforma que transforma o
 ```python  
 if usuario.clica_em("Tenho"):  
    abre_camera()  # Scaneia produto (ex: galinha viva)  
-   sistema.reconhece("Galinha Caipira")  
+   sistema.reconhece("Prensadao de 5")  
    sugere_trocas(["4 pneus", "1 corte degrade", "3h de netflix"])  
 ```  
 
@@ -28,7 +28,7 @@ if usuario.clica_em("Tenho"):
   ```  
   ⭐⭐⭐⭐ Zé da Esquina  
   Trocas: 127  
-  Fama: "Entrega a galinha antes de receber o corte"  
+  Fama: "Entrega fone antes de receber o corte"  
   ```  
 - **Smart Contract de Confiança:**  
   ```solidity  
@@ -60,19 +60,19 @@ if usuario.clica_em("Tenho"):
 ...e transformam em:  
 - **"Troca+" com taxa de 15% por transação**  
 - **Neobanco que exige CPF e score de crédito**  
-- **Ads de galinha NFT no meio do app**  
+- **Ads de NFT do Neymar de Bets no meio do app**  
 
 ---
 
 ### ✅ **SOLUÇÃO ANTICORPORATIVA:**  
 - Registra o core como **software livre** no GitHub:  
   ```  
-  GPL-3.0: "Quem cobrar taxa vai tomar galinha podre na janela"  
+  GPL-3.0: "Quem cobrar taxa da o bumbum"  
   ```  
 - **FATURA EM CIMA DE:**  
   - Anúncio de **Oficinas/Barbearias** (R$ 50/mês)  
   - **"Verificação Ouro"** (selo p/ quem tem 100⭐ = R$ 5)  
-  - **App de namoro integrado:** *"caminhoneiros que trocam carona por unma comida"*  
+  - **App de namoro integrado:** *"caminhoneiros que trocam carona por boquete"*  
 
 ---
 
