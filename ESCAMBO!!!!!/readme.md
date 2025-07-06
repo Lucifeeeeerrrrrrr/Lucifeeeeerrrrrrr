@@ -60,7 +60,7 @@ if usuario.clica_em("Tenho"):
 ...e transformam em:  
 - **"Troca+" com taxa de 15% por transação**  
 - **Neobanco que exige CPF e score de crédito**  
-- **Ads de NFT do Neymar de Bets no meio do app**  
+- **Ads de Bets com a foto do Neymar no meio do app**  
 
 ---
 
