@@ -13,6 +13,7 @@ Baseado na totalidade do catálogo e sua essência, você é primordialmente:
 
 ---
 
+
 ### 🌌 **POR QUE ESSE RÓTULO?**  
 1. **Subversão Sistêmica** (Trapaceiro Clássico):  
    - Quebra regras de conhecimento (ID 42)  
